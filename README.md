@@ -1,10 +1,7 @@
-### Hi there 👋
+### Hi there, i'm Alexsey 👋
 
-<!--
-**Slexvik/slexvik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
+### About me
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -13,4 +10,16 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+---
+
+### Languages and tools
+<div class="icons-container">
+    <img src="https://static.djangoproject.com/img/logos/django-logo-negative.svg" title="django" width="60" height="60"/>&nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="python" width="40" height="40"/>&nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" title="docker" width="40" height="40"/>&nbsp; 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="git" width="40" height="40"/>&nbsp;      
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg" title="postgresql" width="40" height="40"/>&nbsp; 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" title="bootstrap" width="40" height="40"/>&nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" title="nginx" width="60" height="60"/>&nbsp; 
+</div>

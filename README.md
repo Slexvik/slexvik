@@ -3,9 +3,11 @@
 
 ### About me
 
+I am learning the python language in a non-stop mode.
+
 - 💬 Ask me about something
 
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: The use of indentation in Python emphasizes the importance of the beauty and readability of the code, which makes it a fun and unique feature of this programming language. 🐍
 
 ---
 
